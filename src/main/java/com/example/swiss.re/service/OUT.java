@@ -15,4 +15,8 @@ public class OUT {
                 ", byAmount=" + byAmount +
                 '}';
     }
+
+    public Employee getEmployee() {
+        return employee;
+    }
 }
