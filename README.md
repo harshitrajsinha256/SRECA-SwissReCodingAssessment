@@ -1,6 +1,6 @@
 Below is a **clean, interview-ready README.md** tailored **exactly** to:
 
-* ✅ Your **problem statement (Code exercise 106)**
+* ✅ Your **problem statement**
 * ✅ Your **SRECAService implementation**
 * ✅ Your **pom.xml (Spring Boot + Maven + Java 25)**
 * ✅ Swiss Re expectations (simplicity, readability, correctness)
@@ -9,7 +9,7 @@ You can **copy-paste this directly** into your repo.
 
 ---
 
-# SRECA – Swiss Re Coding Assessment (Code Exercise 106)
+# SRECA – Swiss Re Coding Assessment
 
 This repository contains a Java implementation of **Code Exercise 106**, submitted as part of the **Swiss Re Coding Assessment**.
 The goal of the exercise is to analyze a company’s organizational structure and identify potential improvements related to **manager compensation** and **reporting line depth**.
